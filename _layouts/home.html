@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+{% include topbar.html %}
+
+<h1 class="text-center">Publishers on Voice Republic</h1>
+<div class="row clearfix collapse form-wrapper">
+	<div class="medium-8 medium-offset-2 columns text-center collapse">
+
+		<form class="" action="index.html" method="post">
+      <div class="medium-8 columns collapse">
+
+        <input type="text" name="" value="" placeholder="find">
+      </div>
+      <div class="medium-4 columns">
+          <select class="sort-by" name="sort">
+            <option value="">Sort by:</option>
+            <option value="recently-published">Most Recently Published</option>
+            <option value="name">Name</option>
+          </select>
+      </div>
+
+		</form>
+	</div>
+</div>
+
+<div id="pubs" class="row clearfix">
+
+	{% for pub in site.data.pubbys %}
+		<a class="medium-4 large-3 xlarge-2 columns text-center publisher-box" >
+			<img src="assets/vr-publishers/{{pub.img}}" alt="{{pub.name}}" title="{{pub.name}}" width="100px">
+			<h4>{{pub.name}}</h4>
+			<p class="publisher-type">{{pub.type}}</p>
+		</a>
+	{% endfor %}
+</div>

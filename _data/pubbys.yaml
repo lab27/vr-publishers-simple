@@ -1,0 +1,537 @@
+- img: "berlin-partner-logo.jpg"
+  name: "Berlin Partner"
+  type: Institution
+- img: "Cannabis-Life-Radio.jpeg"
+  name: "Cannabis Life Radio"
+  type: Podcast
+- img: "CDKL5-Deutschland-Logo.png"
+  name: "CDKL5 Deutschland"
+  type: Association
+- img: "Circulo_de_bellas_artes_logo.jpg"
+  name: "Círculo de Bellas Artes de Madrid (CBA)"
+  type: Art
+- img: "codemotion-logo.png"
+  name: Codemotion
+  type: Conference
+- img: "coop_Cafe-logo.jpg"
+  name: "Coop Café Berlin"
+  type: Association
+- img: "Darmstaedter-Ferienkurse-2016.jpg"
+  name: "Darmstädter Ferienkurse 2016"
+  type: Conference
+- img: "Detlef-Berentzen.jpg"
+  name: "Detlef Berentzen"
+  type: Journalist
+- img: "deutsches-historisches-museum-logo.jpg"
+  name: "Deutsches Historisches Museum"
+  type: Museum
+- img: "digital-bauhaus-logo.png"
+  name: "Digital Bauhaus Summit"
+  type: Education
+- img: "droidcon-berlin-logo.png"
+  name: "Droidcon Berlin"
+  type: Conference
+- img: "electric-book-fair-logo.jpg"
+  name: "Electric Bookfair"
+  type: Conference
+- img: "EUROFORUM_Logo.png"
+  name: "Euroforum Jahrestagung"
+  type: Conference
+- img: "european-journalism-centre-logo.png"
+  name: "European Journalism Center"
+  type: Association
+- img: "faz-forum.jpg"
+  name: "FAZ FORUM"
+  type: Forum
+- img: "Freiblick-logo.png"
+  name: "Freiblickinstitut e.V."
+  type: Education
+- img: "fruehstuecks-fern-sehen-logo.jpg"
+  name: "Frühstücks Fern Sehen"
+  type: Association
+- img: "full-service-lab-logo.jpg"
+  name: "Full Service Lab"
+  type: Art
+- img: "heinrich-boell-stiftung-logo.png"
+  name: "Heinrich Böll Stiftung"
+  type: Foundation
+- img: "hispanic-startups-berlin-logo.png"
+  name: "Hispanic Start Ups Berlin"
+  type: Association
+- img: "impulse-theater-festival-2016-logo.png"
+  name: "Impulse Theater Festival 2016"
+  type: Festival
+- img: "Instituto-Cervantes-Hamburgo-Logo.png"
+  name: "Instituto Cervantes Hamburgo"
+  type: "Cultural Institute"
+- img: "internet_of_things_conference_logo.png"
+  name: "Internet of Things Conference"
+  type: asshole
+- img: "Juedisches-Museum.jpg"
+  name: "Jüdisches Museum Berlin"
+  type: Museum
+- img: "Koelnmesse_Logo.jpg"
+  name: "Kölnmesse GmbH"
+  type: "Event Space"
+- img: "krauthausen-face-to-face.jpg"
+  name: "Krauthausen - face to face"
+  type: Podcast
+- img: "laboratorium-podkast-logo.jpg"
+  name: "Laboratorium Podkast"
+  type: Podcast
+- img: "Max_Weber_Stiftung_Logo_.jpg"
+  name: "Max Weber Stiftung"
+  type: Foundation
+- img: "media_net_logo.jpg"
+  name: "Medianet Berlin Brandenburg"
+  type: Association
+- img: "michael-greth.jpg"
+  name: "Michael Greth"
+  type: Podcast
+- img: "Fraunhofer-IAO-Morgenstadt-Logo.png"
+  name: "Fraunhofer IAO Morgenstadt Initiative"
+  type: Science
+- img: "music-ppol-berlin-logo.png"
+  name: "Music Pool Berlin"
+  type: Association
+- img: "netzpolitik.jpg"
+  name: "Netzpolitik.org"
+  type: Media
+- img: "NZZ-Logo.png"
+  name: "NZZ Podium Berlin"
+  type: Media
+- img: "onlinegeister-icon.png"
+  name: Onlinegeister
+  type: Podcast
+- img: "q21-mq-logo.jpg"
+  name: "Q21 MuseumsQuartier Wien"
+  type: "Art Space"
+- img: "redendenkentun-logo.jpg"
+  name: "Rudolf Legler"
+  type: Individual
+- img: "republica-irland-logo.jpg"
+  name: "re:publica Irland"
+  type: Conference
+- img: "stippvisite-foto.jpg"
+  name: "Berliner Zimmer"
+  type: Podcast
+- img: "studio-neue-musik-stuttgart.jpg"
+  name: "Studio Neue Musik Stuttgart"
+  type: University
+- img: "tanzkongress-2016-logo.jpg"
+  name: "Tanzkongress 2016"
+  type: Conference
+- img: "TINCON_Logo.png"
+  name: "TINCON Teenage Internet Convention"
+  type: asshole
+- img: "torstrassen-festival-2016-logo.jpg"
+  name: "Torstraßen Festival"
+  type: Festival
+- img: "tschechisches-zentrum-logo.jpg"
+  name: "Tschechisches Zentrum"
+  type: Institution
+- img: "Joern-Thesen.jpeg"
+  name: "Jörn Thesen - Über Pop"
+  type: Podcast
+- img: "whatif-podcast-foto.jpg"
+  name: "What if "
+  type: Podcast
+- img: "xpon-art-gallery-foto.jpg"
+  name: "xpon-art Gallery"
+  type: Gallery
+- img: "Handelsblatt_logo-e1458652873398.jpg"
+  name: "Handelsblatt Jahrestagung Privatkundengeschäft"
+  type: Conference
+- img: "ada_lovelace_logo.png"
+  name: "Ada Lovelace Festival"
+  type: Festival
+- img: "bastei-luebbe-logo.jpg"
+  name: "Bastei Lübbe"
+  type: Publisher
+- img: "CO-logo.png"
+  name: "C/O Berlin"
+  type: Gallery
+- img: "Suhrkamp_Logo.jpg"
+  name: "Suhrkamp Verlag"
+  type: "Publishing House"
+- img: "thomas-rechtsbelehrung-final_500.png"
+  name: Rechtsbelehrung
+  type: Podcast
+- img: "republica_2014-e1458652820780.png"
+  name: "re:publica 2014"
+  type: Conference
+- img: "republica_2015-e1458652681976.png"
+  name: "re:publica 2015"
+  type: Conference
+- img: "re-publicaTEN-245-box-black-mirror1-150x150.png"
+  name: "re:publica 2016"
+  type: Conference
+- img: "amaze_logo-e1458653120847.png"
+  name: "A MAZE"
+  type: Conference
+- img: "amnesty-kreuzberg_logo-e1458653265860.png"
+  name: "Amnesty Kreuzberg"
+  type: NGO
+- img: "LOGO-ADAWIS-neu-e1458653300695.png"
+  name: "Arbeitskreis ADAWIS"
+  type: Conference
+- img: "artbutfair_logo-e1458653368193.png"
+  name: "art but fair"
+  type: Conference
+- img: "back2us_radio_logo-e1458653440293.png"
+  name: "Back2Us Radio"
+  type: Podcast
+- img: "bastian_zimmermann_profil-e1458653482313.jpg"
+  name: "Bastian Zimmermann"
+  type: Individual
+- img: "bfs_berliner_festspiele_buehne-e1458653512292.jpg"
+  name: "Berliner Festspiele"
+  type: "Cultural Institution"
+- img: "republik_movida-e1458653545566.png"
+  name: "meko factory Agentur für Kommunikation UG"
+  type: Agency
+- img: "betahaus_logo-e1458653624209.png"
+  name: "Betahaus Festival"
+  type: "Event Space"
+- img: "micro_icon-e1458647562872.png"
+  name: "Bistum Würzburg"
+  type: Religion
+- img: "bpw-germany-logo-social-2-e1458653674911.jpg"
+  name: "BPW Germany"
+  type: Association
+- img: "Buchhandlung_Moritzplatz-e1458653721180.png"
+  name: "Buchhandlung Moritzplatz"
+  type: "Event Space"
+- img: "bundesverband_darstellende_kuenste_logo-e1458653761484.png"
+  name: "Bundesverband Freie Darstellende Künste e.V."
+  type: Institution
+- img: "bpb_logo1-e1458653800914.jpg"
+  name: "Bundeszentrale für politische Bildung"
+  type: Institution
+- img: "CAT_logo_grau_mini-e1458653839516.jpg"
+  name: "CAT Cologne"
+  type: Community
+- img: "charlie_rivers-e1458653881357.jpg"
+  name: "Charles Rivers"
+  type: Individual
+- img: "cityleaks-e1458653917377.jpg"
+  name: "CityLeaks Urban Art Festival"
+  type: Festival
+- img: "computerspielemuseum_logo-e1458653959505.png"
+  name: "Computerspiele Museum"
+  type: Museum
+- img: "Courage-Foundation-Logo-e1458653992439.jpeg"
+  name: "Courage Foundation"
+  type: NGO
+- img: "creative_business_startup_weekend_logo-e1458654067413.png"
+  name: "Creative Business Startup Weekend"
+  type: Conference
+- img: "fft_duesseldorf-150x150.png"
+  name: "FFT Düsseldorf"
+  type: Theatre
+- img: "darmstädter_ferienkurse_logo-e1458654173318.png"
+  name: "Darmstädter Ferienkurse 2014"
+  type: "Meet Up"
+- img: "Die_Bundesregierung_logo-e1458654204181.png"
+  name: "Das Bundeskanzleramt"
+  type: Institution
+- img: "micro_icon-e1458647562872.png"
+  name: "Decolonial Summer School"
+  type: Education
+- img: "denk-diwan-logo-e1458654246949.png"
+  name: "Denk Diwan"
+  type: Individual
+- img: "devgamm_logo-e1458654279356.png"
+  name: "DevGAMM Hamburg"
+  type: Conference
+- img: "OffeneGesellschaft_Logo-e1458654309773.png"
+  name: "Die offene Gesellschaft"
+  type: Community
+- img: "disruptionLabIcon-e1458654343945.png"
+  name: "DISRUPTION NETWORK LAB"
+  type: Conference
+- img: "DMY-ProfilBild-e1458654376399.png"
+  name: "DMY BERLIN"
+  type: Conference
+- img: "ensemble_musikfabrik_logo-e1458654411257.jpg"
+  name: "Ensemble Musikfabrik"
+  type: Conference
+- img: "equippers_friedenskirche_logo-e1458654453587.jpeg"
+  name: "Equippers Friedenskirche Zürich"
+  type: Religion
+- img: "europaeischer_salon_logo-e1458654491344.png"
+  name: "Europäischer Salon"
+  type: Conference
+- img: "europa_union_deutschland-e1458654531671.jpg"
+  name: "Europa-Union Deutschland"
+  type: Conference
+- img: "micro_icon-e1458647562872.png"
+  name: "European Students' Conference"
+  type: Conference
+- img: "micro_icon-e1458647562872.png"
+  name: "Fabian Hemmert"
+  type: Individual
+- img: "fischerundgann_logo-e1458655062859.jpg"
+  name: "Fischer und Gann"
+  type: Publisher
+- img: "Forum_Transregionale_studien_Logo-e1458655094769.png"
+  name: "Forum Transregionale Studien"
+  type: Science
+- img: "FBM_profpic1-01-e1458655148621.png"
+  name: "Frankfurter Buchmesse"
+  type: Fair
+- img: "MorgenStadt_USERPIC_400x400-e1458655181188.png"
+  name: "Fraunhofer Urban Futures Conference"
+  type: asshole
+- img: "galerie_stephan_witschi_logo-e1458655230462.png"
+  name: "Galerie Stephan Witschi"
+  type: Gallery
+- img: "gareth_bentlry_logo-e1458726135123.jpg"
+  name: "Gareth Bentley"
+  type: Individual
+- img: "gessnerallee_logo-e1458726175206.jpg"
+  name: "Gessnerallee Zürich"
+  type: Theatre
+- img: "goethe_institut_logo-e1458726248156.jpg"
+  name: "Goethe-Institut Nigeria"
+  type: Institution
+- img: "Game_science_center_logo-e1458726287990.jpg"
+  name: "GSC GameScienceCenter"
+  type: Science
+- img: "hkw_logo-e1458726338391.jpg"
+  name: HKW
+  type: "Cultural Institution"
+- img: "henrik_lafrenz_profil-e1458726414136.jpeg"
+  name: "Henrik Lafrenz"
+  type: Individual
+- img: "hwr_hochschule_fuer_wirtschaft_recht_logo-e1458726469750.png"
+  name: "Hochschule für Wirtschaft und Recht Berlin"
+  type: University
+- img: "hoerbuch_hamburg_logo-e1458726511748.png"
+  name: "Hörbuch Hamburg"
+  type: Publisher
+- img: "HPI_school_of_design_thinking_logo-e1458726558783.jpeg"
+  name: "HPI School of Design Thinking"
+  type: University
+- img: "human_rights_festival_zuerich_logo-e1458726610278.png"
+  name: "Human Rights Film Festival Zurich"
+  type: Festival
+- img: "INMM_darmstadt_fruehjahrstagung_logo-e1458726646690.jpg"
+  name: "INMM Darmstadt Frühjahrstagung"
+  type: Conference
+- img: "international_parliamentary_forum_logo-e1458726688532.jpeg"
+  name: "International Parliamentary Forum"
+  type: Conference
+- img: "internationales_sommerfestival_kampnagel_hamburg-e1458726735446.jpg"
+  name: "Internationales Sommerfestival Kampnagel Hamburg"
+  type: asshole
+- img: "internet_of_things_conference_logo-e1458726777654.png"
+  name: "Internet of Things Conference"
+  type: asshole
+- img: "jan_theiler-e1458726911429.jpg"
+  name: "Jan Theiler"
+  type: Individual
+- img: "jens_p_neumann-e1458726947191.jpg"
+  name: "Jens P. Neumann"
+  type: Individual
+- img: "jens_christian_fischer_profil-e1458726994497.jpg"
+  name: "Jens-Christian Fischer"
+  type: Individual
+- img: "johannes_kreidler-e1458727035550.gif"
+  name: "Johannes Kreidler"
+  type: Individual
+- img: "Jordan_schachter-e1458727069211.jpg"
+  name: "Jordan Schachter"
+  type: Individual
+- img: "kampnagel_hamburg_logo-e1458727113598.jpeg"
+  name: "Kampnagel Hamburg"
+  type: Theatre
+- img: "konrad_adenauer_stiftung_logo-e1458727195674.jpg"
+  name: "Konrad Adenauer Stiftung"
+  type: Foundation
+- img: "krautreporter_logo-e1458727275958.png"
+  name: Krautreporter
+  type: Media
+- img: "labs_to_public_logo-e1458727328163.png"
+  name: "Labs to Public"
+  type: Conference
+- img: "Lange_nacht_der_Startups_logo-e1458727365756.png"
+  name: "Lange Nacht der Startups"
+  type: Festival
+- img: "lars_dreiucker-e1458727398883.jpg"
+  name: "Lars Dreiucker"
+  type: Individual
+- img: "LBM_Logo_profil-e1458727443329.jpg"
+  name: "Leipziger Buchmesse"
+  type: Fair
+- img: "linux_tag_2014-e1458727571618.jpg"
+  name: "Linux Tag 2014"
+  type: Conference
+- img: "literaturforum_brecht_haus_logo-e1458727615319.jpg"
+  name: "Literaturforum im Brecht-Haus"
+  type: "Cultural Forum"
+- img: "maniere_-noire_logo-e1458727735427.jpg"
+  name: "Manière Noire"
+  type: "Event Space"
+- img: "maxim_gorki_theater_berlin_logo-e1458727777917.png"
+  name: "Maxim Gorki Theater"
+  type: Theater
+- img: "melanie_kretschmann-e1458728923161.jpg"
+  name: "Melanie Kretschmann"
+  type: Individual
+- img: "mobile_tech_conference-e1458729132661.png"
+  name: "Mobile Tech Conference"
+  type: asshole
+- img: "MeshCon_Berlin_logo-e1458729022250.jpeg"
+  name: "MeshCon Berlin"
+  type: Conference
+- img: "mf_david_deery-e1458729080134.jpg"
+  name: "MF David Deery"
+  type: Individual
+- img: "mosse_lecutres_logo-e1458729228368.png"
+  name: "Mosse Lectures"
+  type: Education
+- img: "Munen_Alain_M_Lafon-e1458729282319.jpg"
+  name: "Munen Alain M. Lafon"
+  type: Individual
+- img: "musikforschung_basel_logo-e1458729316764.png"
+  name: "Musikforschung Basel"
+  type: Science
+- img: "nGbK_Logo-small-e1458729384765.jpg"
+  name: " ngbk neue Gesellschaft für bildende Kunst"
+  type: Museum
+- img: "Nick_Niles-e1458729423732.jpg"
+  name: "Nick Niles"
+  type: Individual
+- img: "Ole_Kretschmann-e1458729485735.png"
+  name: "Ole Kretschmann"
+  type: Individual
+- img: "open_tech_summit-e1458729569215.png"
+  name: "OpenTech Summit"
+  type: Conference
+- img: "patrick_frank-e1458729605669.png"
+  name: "Patrick Frank"
+  type: Individual
+- img: "platform_cooperativism-e1458729685797.jpg"
+  name: "Platform Cooperativism"
+  type: Education
+- img: "publixphere_channel-e1458729720915.jpg"
+  name: "Publixphere Channel"
+  type: Association
+- img: "read_berlin-e1458729758798.png"
+  name: "Read ! Berlin"
+  type: Festival
+- img: "nadine_luise_elfenbein-e1458729353524.jpg"
+  name: "REFLECTISM Forum for Visual Exploration"
+  type: Individual
+- img: "respawn-e1458729826210.jpg"
+  name: "RESPAWN - Gathering of Game Developers"
+  type: Conference
+- img: "Roberto_guerra-e1458729871899.jpg"
+  name: "Roberto Guerra"
+  type: Individual
+- img: "rosa_luxemburg_stiftung-e1458729906709.png"
+  name: "Rosa Luxemburg Stiftung"
+  type: Foundation
+- img: "rotpunkt_verlag-e1458729939190.png"
+  name: "Rotpunkt Verlag"
+  type: Publisher
+- img: "sarah_nemtsov-e1458730009347.jpg"
+  name: "Sarah Nemtsov"
+  type: Individual
+- img: "schauspiel_frankfurt-e1458730038365.jpg"
+  name: "Schauspiel Frankfurt"
+  type: Theatre
+- img: "Schauspiel_Koeln-e1458730074724.jpg"
+  name: "Schauspiel Köln"
+  type: Theatre
+- img: "simon_birgisson-e1458730148245.jpg"
+  name: "Simon Birgisson"
+  type: Individual
+- img: "sofar_sounds-e1458730185263.png"
+  name: "Sofar Sounds"
+  type: Podcast
+- img: "Tim_Renner-e1458730229966.jpg"
+  name: "Staatssekretär für Kulturelle Angelegenheiten Berlin"
+  type: "Political Institution"
+- img: "Stand_Land_Buch_Logo-e1458730267402.jpeg"
+  name: "STADT LAND BUCH"
+  type: Festival
+- img: "Stefan_Hetzel_logo-e1458730399494.jpg"
+  name: "Stefan Hetzel"
+  type: Individual
+- img: "stefan_scheidegger-e1458730464630.jpg"
+  name: "Stefan Scheidegger"
+  type: Individual
+- img: "symposium_festival_performing_voice-e1458730540363.png"
+  name: "Symposium & Festival Performing Voice"
+  type: Festival
+- img: "tage_fuer_neue_musik_zuerich-e1458730592853.jpg"
+  name: "Tage für Neue Musik Zürich 14.-17. November 2013"
+  type: Conference
+- img: "tech_open_air-e1458730631855.png"
+  name: "tech open air"
+  type: Conference
+- img: "logan_symposium-e1458730713310.jpg"
+  name: "The Logan CIJ Symposium"
+  type: Conference
+- img: "transmediale-e1458730778528.jpg"
+  name: "transmediale & digitalculture"
+  type: Festival
+- img: "unframed_festival-e1458730830429.png"
+  name: "Unframed Festival"
+  type: Festival
+- img: "useful_theater-e1458730905900.png"
+  name: "Useful Theater"
+  type: Theater
+- img: "Voice_Republic_Logo-e1458730957900.png"
+  name: "Voice Republic"
+  type: asshole
+- img: "Volkshaus_buchhandlung-e1458730995522.png"
+  name: "Volkshaus Buchhandlung"
+  type: "Event Space"
+- img: "WAU_Holland_foundation-e1458731037989.png"
+  name: "Wau Holland Foundation"
+  type: Foundation
+- img: "webinale-e1458731068294.jpg"
+  name: "webinale conference"
+  type: Conference
+- img: "futuramen-e1458731105228.jpg"
+  name: "Will + Joie FutuRamen"
+  type: Individual
+- img: "WILPF_international-e1458731142603.png"
+  name: "WILPF International"
+  type: NGO
+- img: "Wissenschaft_im_dialog-e1458731177514.jpg"
+  name: "Wissenschaft im Dialog"
+  type: Conference
+- img: "W_JAX-Profil-Pic-e1458731209923.png"
+  name: "W-JAX 2014"
+  type: Conference
+- img: "Write_the_docs-e1458731247237.png"
+  name: "Write the Docs"
+  type: Conference
+- img: "Zentrum_geschichte_des_wissens-e1458731286707.jpg"
+  name: "ZGW (ETH & UZH)"
+  type: University
+- img: "micro_icon-e1458647562872.png"
+  name: "Hubert Grealish"
+  type: Individual
+- img: "LjQ0oB6G-e1464180941395.jpg"
+  name: "Kamaile Tripp"
+  type: Podcast
+- img: "palabra.jpg"
+  name: "Museo de la Palabra"
+  type: Conference
+- img: "micro_icon-e1458647562872.png"
+  name: "Hubert Grealish"
+  type: Individual
+- img: "pubnpub-logo.png"
+  name: "Pub'n'Pub"
+  type: Event
+- img: "instituto_cervantes.jpg"
+  name: "Instituto Cervantes"
+  type: "Cultural Institute"
+- img: "faz-forum.jpg"
+  name: "Klangforum Wien"
+  type: "Cultural Institution"

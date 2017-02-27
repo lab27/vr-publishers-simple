@@ -1,0 +1,733 @@
+[{
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/berlin-partner-logo.jpg",
+    "name": "Berlin Partner",
+    "type": "Institution"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/Cannabis-Life-Radio.jpeg",
+    "name": "Cannabis Life Radio",
+    "type": "Podcast"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/CDKL5-Deutschland-Logo.png",
+    "name": "CDKL5 Deutschland",
+    "type": "Association"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/Circulo_de_bellas_artes_logo.jpg",
+    "name": "Círculo de Bellas Artes de Madrid (CBA)",
+    "type": "Art"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/codemotion-logo.png",
+    "name": "Codemotion",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/coop_Cafe-logo.jpg",
+    "name": "Coop Café Berlin",
+    "type": "Association"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/Darmstaedter-Ferienkurse-2016.jpg",
+    "name": "Darmstädter Ferienkurse 2016",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/Detlef-Berentzen.jpg",
+    "name": "Detlef Berentzen",
+    "type": "Journalist"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/deutsches-historisches-museum-logo.jpg",
+    "name": "Deutsches Historisches Museum",
+    "type": "Museum"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/digital-bauhaus-logo.png",
+    "name": "Digital Bauhaus Summit",
+    "type": "Education"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/droidcon-berlin-logo.png",
+    "name": "Droidcon Berlin",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/electric-book-fair-logo.jpg",
+    "name": "Electric Bookfair",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/EUROFORUM_Logo.png",
+    "name": "Euroforum Jahrestagung",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/european-journalism-centre-logo.png",
+    "name": "European Journalism Center",
+    "type": "Association"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/faz-forum.jpg",
+    "name": "FAZ FORUM",
+    "type": "Forum"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/Freiblick-logo.png",
+    "name": "Freiblickinstitut e.V.",
+    "type": "Education"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/fruehstuecks-fern-sehen-logo.jpg",
+    "name": "Frühstücks Fern Sehen",
+    "type": "Association"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/full-service-lab-logo.jpg",
+    "name": "Full Service Lab",
+    "type": "Art"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/heinrich-boell-stiftung-logo.png",
+    "name": "Heinrich Böll Stiftung",
+    "type": "Foundation"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/hispanic-startups-berlin-logo.png",
+    "name": "Hispanic Start Ups Berlin",
+    "type": "Association"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/impulse-theater-festival-2016-logo.png",
+    "name": "Impulse Theater Festival 2016",
+    "type": "Festival"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/Instituto-Cervantes-Hamburgo-Logo.png",
+    "name": "Instituto Cervantes Hamburgo",
+    "type": "Cultural Institute"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/05/internet_of_things_conference_logo.png",
+    "name": "Internet of Things Conference",
+    "type": "asshole"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/Juedisches-Museum.jpg",
+    "name": "Jüdisches Museum Berlin",
+    "type": "Museum"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/Koelnmesse_Logo.jpg",
+    "name": "Kölnmesse GmbH",
+    "type": "Event Space"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/krauthausen-face-to-face.jpg",
+    "name": "Krauthausen - face to face",
+    "type": "Podcast"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/laboratorium-podkast-logo.jpg",
+    "name": "Laboratorium Podkast",
+    "type": "Podcast"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/Max_Weber_Stiftung_Logo_.jpg",
+    "name": "Max Weber Stiftung",
+    "type": "Foundation"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/media_net_logo.jpg",
+    "name": "Medianet Berlin Brandenburg",
+    "type": "Association"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/michael-greth.jpg",
+    "name": "Michael Greth",
+    "type": "Podcast"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/Fraunhofer-IAO-Morgenstadt-Logo.png",
+    "name": "Fraunhofer IAO Morgenstadt Initiative",
+    "type": "Science"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/music-ppol-berlin-logo.png",
+    "name": "Music Pool Berlin",
+    "type": "Association"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/netzpolitik.jpg",
+    "name": "Netzpolitik.org",
+    "type": "Media"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/NZZ-Logo.png",
+    "name": "NZZ Podium Berlin",
+    "type": "Media"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/onlinegeister-icon.png",
+    "name": "Onlinegeister",
+    "type": "Podcast"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/q21-mq-logo.jpg",
+    "name": "Q21 MuseumsQuartier Wien",
+    "type": "Art Space"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/redendenkentun-logo.jpg",
+    "name": "Rudolf Legler",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/republica-irland-logo.jpg",
+    "name": "re:publica Irland",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/stippvisite-foto.jpg",
+    "name": "Berliner Zimmer",
+    "type": "Podcast"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/studio-neue-musik-stuttgart.jpg",
+    "name": "Studio Neue Musik Stuttgart",
+    "type": "University"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/tanzkongress-2016-logo.jpg",
+    "name": "Tanzkongress 2016",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/TINCON_Logo.png",
+    "name": "TINCON Teenage Internet Convention",
+    "type": "asshole"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/torstrassen-festival-2016-logo.jpg",
+    "name": "Torstraßen Festival",
+    "type": "Festival"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/tschechisches-zentrum-logo.jpg",
+    "name": "Tschechisches Zentrum",
+    "type": "Institution"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/Joern-Thesen.jpeg",
+    "name": "Jörn Thesen - Über Pop",
+    "type": "Podcast"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/whatif-podcast-foto.jpg",
+    "name": "What if ",
+    "type": "Podcast"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/xpon-art-gallery-foto.jpg",
+    "name": "xpon-art Gallery",
+    "type": "Gallery"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/Zekel-He",
+    "name": "Zekel he",
+    "type": "Science"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/Handelsblatt_logo-e1458652873398.jpg",
+    "name": "Handelsblatt Jahrestagung Privatkundengeschäft",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/05/ada_lovelace_logo.png",
+    "name": "Ada Lovelace Festival",
+    "type": "Festival"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/bastei-luebbe-logo.jpg",
+    "name": "Bastei Lübbe",
+    "type": "Publisher"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/CO-logo.png",
+    "name": "C/O Berlin",
+    "type": "Gallery"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/Suhrkamp_Logo.jpg",
+    "name": "Suhrkamp Verlag",
+    "type": "Publishing House"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/thomas-rechtsbelehrung-final_500.png",
+    "name": "Rechtsbelehrung",
+    "type": "Podcast"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/republica_2014-e1458652820780.png",
+    "name": "re:publica 2014",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/republica_2015-e1458652681976.png",
+    "name": "re:publica 2015",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/re-publicaTEN-245-box-black-mirror1-150x150.png",
+    "name": "re:publica 2016",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/amaze_logo-e1458653120847.png",
+    "name": "A MAZE",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/amnesty-kreuzberg_logo-e1458653265860.png",
+    "name": "Amnesty Kreuzberg",
+    "type": "NGO"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/LOGO-ADAWIS-neu-e1458653300695.png",
+    "name": "Arbeitskreis ADAWIS",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/artbutfair_logo-e1458653368193.png",
+    "name": "art but fair",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/back2us_radio_logo-e1458653440293.png",
+    "name": "Back2Us Radio",
+    "type": "Podcast"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/bastian_zimmermann_profil-e1458653482313.jpg",
+    "name": "Bastian Zimmermann",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/bfs_berliner_festspiele_buehne-e1458653512292.jpg",
+    "name": "Berliner Festspiele",
+    "type": "Cultural Institution"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/republik_movida-e1458653545566.png",
+    "name": "meko factory Agentur für Kommunikation UG",
+    "type": "Agency"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/betahaus_logo-e1458653624209.png",
+    "name": "Betahaus Festival",
+    "type": "Event Space"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/micro_icon-e1458647562872.png",
+    "name": "Bistum Würzburg",
+    "type": "Religion"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/bpw-germany-logo-social-2-e1458653674911.jpg",
+    "name": "BPW Germany",
+    "type": "Association"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/Buchhandlung_Moritzplatz-e1458653721180.png",
+    "name": "Buchhandlung Moritzplatz",
+    "type": "Event Space"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/bundesverband_darstellende_kuenste_logo-e1458653761484.png",
+    "name": "Bundesverband Freie Darstellende Künste e.V.",
+    "type": "Institution"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/bpb_logo1-e1458653800914.jpg",
+    "name": "Bundeszentrale für politische Bildung",
+    "type": "Institution"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/CAT_logo_grau_mini-e1458653839516.jpg",
+    "name": "CAT Cologne",
+    "type": "Community"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/charlie_rivers-e1458653881357.jpg",
+    "name": "Charles Rivers",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/cityleaks-e1458653917377.jpg",
+    "name": "CityLeaks Urban Art Festival",
+    "type": "Festival"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/computerspielemuseum_logo-e1458653959505.png",
+    "name": "Computerspiele Museum",
+    "type": "Museum"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/Courage-Foundation-Logo-e1458653992439.jpeg",
+    "name": "Courage Foundation",
+    "type": "NGO"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/creative_business_startup_weekend_logo-e1458654067413.png",
+    "name": "Creative Business Startup Weekend",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/fft_duesseldorf-150x150.png",
+    "name": "FFT Düsseldorf",
+    "type": "Theatre"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/darmstädter_ferienkurse_logo-e1458654173318.png",
+    "name": "Darmstädter Ferienkurse 2014",
+    "type": "Meet Up"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/Die_Bundesregierung_logo-e1458654204181.png",
+    "name": "Das Bundeskanzleramt",
+    "type": "Institution"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/micro_icon-e1458647562872.png",
+    "name": "Decolonial Summer School",
+    "type": "Education"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/denk-diwan-logo-e1458654246949.png",
+    "name": "Denk Diwan",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/devgamm_logo-e1458654279356.png",
+    "name": "DevGAMM Hamburg",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/OffeneGesellschaft_Logo-e1458654309773.png",
+    "name": "Die offene Gesellschaft",
+    "type": "Community"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/disruptionLabIcon-e1458654343945.png",
+    "name": "DISRUPTION NETWORK LAB",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/DMY-ProfilBild-e1458654376399.png",
+    "name": "DMY BERLIN",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/ensemble_musikfabrik_logo-e1458654411257.jpg",
+    "name": "Ensemble Musikfabrik",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/equippers_friedenskirche_logo-e1458654453587.jpeg",
+    "name": "Equippers Friedenskirche Zürich",
+    "type": "Religion"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/europaeischer_salon_logo-e1458654491344.png",
+    "name": "Europäischer Salon",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/europa_union_deutschland-e1458654531671.jpg",
+    "name": "Europa-Union Deutschland",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/micro_icon-e1458647562872.png",
+    "name": "European Students' Conference",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/micro_icon-e1458647562872.png",
+    "name": "Fabian Hemmert",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/fischerundgann_logo-e1458655062859.jpg",
+    "name": "Fischer und Gann",
+    "type": "Publisher"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/Forum_Transregionale_studien_Logo-e1458655094769.png",
+    "name": "Forum Transregionale Studien",
+    "type": "Science"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/FBM_profpic1-01-e1458655148621.png",
+    "name": "Frankfurter Buchmesse",
+    "type": "Fair"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/MorgenStadt_USERPIC_400x400-e1458655181188.png",
+    "name": "Fraunhofer Urban Futures Conference",
+    "type": "asshole"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/galerie_stephan_witschi_logo-e1458655230462.png",
+    "name": "Galerie Stephan Witschi",
+    "type": "Gallery"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/gareth_bentlry_logo-e1458726135123.jpg",
+    "name": "Gareth Bentley",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/gessnerallee_logo-e1458726175206.jpg",
+    "name": "Gessnerallee Zürich",
+    "type": "Theatre"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/global_he",
+    "name": "Global He",
+    "type": "Global He"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/goethe_institut_logo-e1458726248156.jpg",
+    "name": "Goethe-Institut Nigeria",
+    "type": "Institution"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/Game_science_center_logo-e1458726287990.jpg",
+    "name": "GSC GameScienceCenter",
+    "type": "Science"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/hkw_logo-e1458726338391.jpg",
+    "name": "HKW",
+    "type": "Cultural Institution"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/henrik_lafrenz_profil-e1458726414136.jpeg",
+    "name": "Henrik Lafrenz",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/hwr_hochschule_fuer_wirtschaft_recht_logo-e1458726469750.png",
+    "name": "Hochschule für Wirtschaft und Recht Berlin",
+    "type": "University"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/hoerbuch_hamburg_logo-e1458726511748.png",
+    "name": "Hörbuch Hamburg",
+    "type": "Publisher"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/HPI_school_of_design_thinking_logo-e1458726558783.jpeg",
+    "name": "HPI School of Design Thinking",
+    "type": "University"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/human_rights_festival_zuerich_logo-e1458726610278.png",
+    "name": "Human Rights Film Festival Zurich",
+    "type": "Festival"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/INMM_darmstadt_fruehjahrstagung_logo-e1458726646690.jpg",
+    "name": "INMM Darmstadt Frühjahrstagung",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/international_parliamentary_forum_logo-e1458726688532.jpeg",
+    "name": "International Parliamentary Forum",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/internationales_sommerfestival_kampnagel_hamburg-e1458726735446.jpg",
+    "name": "Internationales Sommerfestival Kampnagel Hamburg",
+    "type": "asshole"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/internet_of_things_conference_logo-e1458726777654.png",
+    "name": "Internet of Things Conference",
+    "type": "asshole"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/global_he",
+    "name": "IPPNW Internationale Ärzte für die Verhütung des Atomkrieges e.V.",
+    "type": "Conference "
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/jan_theiler-e1458726911429.jpg",
+    "name": "Jan Theiler",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/jens_p_neumann-e1458726947191.jpg",
+    "name": "Jens P. Neumann",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/jens_christian_fischer_profil-e1458726994497.jpg",
+    "name": "Jens-Christian Fischer",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/johannes_kreidler-e1458727035550.gif",
+    "name": "Johannes Kreidler",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/Jordan_schachter-e1458727069211.jpg",
+    "name": "Jordan Schachter",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/kampnagel_hamburg_logo-e1458727113598.jpeg",
+    "name": "Kampnagel Hamburg",
+    "type": "Theatre"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/konrad_adenauer_stiftung_logo-e1458727195674.jpg",
+    "name": "Konrad Adenauer Stiftung",
+    "type": "Foundation"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/krautreporter_logo-e1458727275958.png",
+    "name": "Krautreporter",
+    "type": "Media"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/labs_to_public_logo-e1458727328163.png",
+    "name": "Labs to Public",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/Lange_nacht_der_Startups_logo-e1458727365756.png",
+    "name": "Lange Nacht der Startups",
+    "type": "Festival"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/lars_dreiucker-e1458727398883.jpg",
+    "name": "Lars Dreiucker",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/LBM_Logo_profil-e1458727443329.jpg",
+    "name": "Leipziger Buchmesse",
+    "type": "Fair"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/linux_tag_2014-e1458727571618.jpg",
+    "name": "Linux Tag 2014",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/literaturforum_brecht_haus_logo-e1458727615319.jpg",
+    "name": "Literaturforum im Brecht-Haus",
+    "type": "Cultural Forum"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/maniere_-noire_logo-e1458727735427.jpg",
+    "name": "Manière Noire",
+    "type": "Event Space"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/maxim_gorki_theater_berlin_logo-e1458727777917.png",
+    "name": "Maxim Gorki Theater",
+    "type": "Theater"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/melanie_kretschmann-e1458728923161.jpg",
+    "name": "Melanie Kretschmann",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/mobile_tech_conference-e1458729132661.png",
+    "name": "Mobile Tech Conference",
+    "type": "asshole"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/MeshCon_Berlin_logo-e1458729022250.jpeg",
+    "name": "MeshCon Berlin",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/mf_david_deery-e1458729080134.jpg",
+    "name": "MF David Deery",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/mosse_lecutres_logo-e1458729228368.png",
+    "name": "Mosse Lectures",
+    "type": "Education"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/Munen_Alain_M_Lafon-e1458729282319.jpg",
+    "name": "Munen Alain M. Lafon",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/musikforschung_basel_logo-e1458729316764.png",
+    "name": "Musikforschung Basel",
+    "type": "Science"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/nGbK_Logo-small-e1458729384765.jpg",
+    "name": " ngbk neue Gesellschaft für bildende Kunst",
+    "type": "Museum"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/Nick_Niles-e1458729423732.jpg",
+    "name": "Nick Niles",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/Ole_Kretschmann-e1458729485735.png",
+    "name": "Ole Kretschmann",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/open_tech_summit-e1458729569215.png",
+    "name": "OpenTech Summit",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/patrick_frank-e1458729605669.png",
+    "name": "Patrick Frank",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/platform_cooperativism-e1458729685797.jpg",
+    "name": "Platform Cooperativism",
+    "type": "Education"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/publixphere_channel-e1458729720915.jpg",
+    "name": "Publixphere Channel",
+    "type": "Association"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/read_berlin-e1458729758798.png",
+    "name": "Read ! Berlin",
+    "type": "Festival"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/nadine_luise_elfenbein-e1458729353524.jpg",
+    "name": "REFLECTISM Forum for Visual Exploration",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/respawn-e1458729826210.jpg",
+    "name": "RESPAWN - Gathering of Game Developers",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/Roberto_guerra-e1458729871899.jpg",
+    "name": "Roberto Guerra",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/rosa_luxemburg_stiftung-e1458729906709.png",
+    "name": "Rosa Luxemburg Stiftung",
+    "type": "Foundation"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/rotpunkt_verlag-e1458729939190.png",
+    "name": "Rotpunkt Verlag",
+    "type": "Publisher"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/sarah_nemtsov-e1458730009347.jpg",
+    "name": "Sarah Nemtsov",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/schauspiel_frankfurt-e1458730038365.jpg",
+    "name": "Schauspiel Frankfurt",
+    "type": "Theatre"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/Schauspiel_Koeln-e1458730074724.jpg",
+    "name": "Schauspiel Köln",
+    "type": "Theatre"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/simon_birgisson-e1458730148245.jpg",
+    "name": "Simon Birgisson",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/sofar_sounds-e1458730185263.png",
+    "name": "Sofar Sounds",
+    "type": "Podcast"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/Tim_Renner-e1458730229966.jpg",
+    "name": "Staatssekretär für Kulturelle Angelegenheiten Berlin",
+    "type": "Political Institution"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/Stand_Land_Buch_Logo-e1458730267402.jpeg",
+    "name": "STADT LAND BUCH",
+    "type": "Festival"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/Stefan_Hetzel_logo-e1458730399494.jpg",
+    "name": "Stefan Hetzel",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/stefan_scheidegger-e1458730464630.jpg",
+    "name": "Stefan Scheidegger",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/symposium_festival_performing_voice-e1458730540363.png",
+    "name": "Symposium & Festival Performing Voice",
+    "type": "Festival"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/tage_fuer_neue_musik_zuerich-e1458730592853.jpg",
+    "name": "Tage für Neue Musik Zürich 14.-17. November 2013",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/tech_open_air-e1458730631855.png",
+    "name": "tech open air",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/logan_symposium-e1458730713310.jpg",
+    "name": "The Logan CIJ Symposium",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/transmediale-e1458730778528.jpg",
+    "name": "transmediale & digitalculture",
+    "type": "Festival"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/unframed_festival-e1458730830429.png",
+    "name": "Unframed Festival",
+    "type": "Festival"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/useful_theater-e1458730905900.png",
+    "name": "Useful Theater",
+    "type": "Theater"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/Voice_Republic_Logo-e1458730957900.png",
+    "name": "Voice Republic",
+    "type": "asshole"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/Volkshaus_buchhandlung-e1458730995522.png",
+    "name": "Volkshaus Buchhandlung",
+    "type": "Event Space"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/WAU_Holland_foundation-e1458731037989.png",
+    "name": "Wau Holland Foundation",
+    "type": "Foundation"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/webinale-e1458731068294.jpg",
+    "name": "webinale conference",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/futuramen-e1458731105228.jpg",
+    "name": "Will + Joie FutuRamen",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/WILPF_international-e1458731142603.png",
+    "name": "WILPF International",
+    "type": "NGO"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/Wissenschaft_im_dialog-e1458731177514.jpg",
+    "name": "Wissenschaft im Dialog",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/W_JAX-Profil-Pic-e1458731209923.png",
+    "name": "W-JAX 2014",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/Write_the_docs-e1458731247237.png",
+    "name": "Write the Docs",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/Zentrum_geschichte_des_wissens-e1458731286707.jpg",
+    "name": "ZGW (ETH & UZH)",
+    "type": "University"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/zugang_gest",
+    "name": "Zugang Gest",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/micro_icon-e1458647562872.png",
+    "name": "Hubert Grealish",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/LjQ0oB6G-e1464180941395.jpg",
+    "name": "Kamaile Tripp",
+    "type": "Podcast"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/palabra.jpg",
+    "name": "Museo de la Palabra",
+    "type": "Conference"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/micro_icon-e1458647562872.png",
+    "name": "Hubert Grealish",
+    "type": "Individual"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/pubnpub-logo.png",
+    "name": "Pub'n'Pub",
+    "type": "Event"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/03/instituto_cervantes.jpg",
+    "name": "Instituto Cervantes",
+    "type": "Cultural Institute"
+}, {
+    "img": "http://blog.voicerepublic.com/wp-content/uploads/2016/10/faz-forum.jpg",
+    "name": "Klangforum Wien",
+    "type": "Cultural Institution"
+}]

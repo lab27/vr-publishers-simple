@@ -1,0 +1,58 @@
+@import 'settings';
+@import 'foundation';
+@include foundation-everything;
+@import 'topbar';
+
+$bg-color: #f9f9f9;
+
+.top-bar {
+  margin-bottom: 44px;
+}
+
+body {
+  color: $talk-dark;
+  background-color: $bg-color;
+}
+
+
+.form-wrapper {
+  margin-bottom: 60px;
+}
+
+  h1 {
+    font-size: 2rem;
+    font-weight: normal;
+    letter-spacing: .05rem;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+  }
+
+  #pubs {
+    img {
+      margin-bottom: 1rem;
+    }
+  }
+
+h4 {
+  font-size: 1rem;
+  line-height: 1rem;
+}
+
+a.publisher-box {
+  min-height: 230px;
+  margin-bottom: 24px;
+  border-radius: 10px;
+  padding: 24px 0 0 0;
+  box-shadow: 0 0 0 rgba(0,0,0,0);
+  transition: box-shadow .2s;
+  color: $talk-dark;
+  &:hover {
+    box-shadow: 0 5px 10px rgba(0,0,0,.1)
+  }
+}
+
+p.publisher-type {
+  font-weight: 300;
+  font-size: .8rem;
+  color:rgba($talk-dark,.6);
+}
