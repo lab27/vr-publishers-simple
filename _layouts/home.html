@@ -9,17 +9,26 @@ layout: default
 	<div class="medium-8 medium-offset-2 columns text-center collapse">
 
 		<form class="" action="index.html" method="post">
-      <div class="medium-8 columns collapse">
+      <div class="medium-7 columns collapse">
 
         <input type="text" name="" value="" placeholder="find">
       </div>
-      <div class="medium-4 columns">
+      <div class="medium-3 columns">
           <select class="sort-by" name="sort">
             <option value="">Sort by:</option>
             <option value="recently-published">Most Recently Published</option>
             <option value="name">Name</option>
+            <option value="name">Most Talks</option>
           </select>
       </div>
+			<div class="medium-2 columns" id="view-toggle">
+				<a href="#" class="" id="grid-view">
+					 <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-grid"></use></svg>
+				</a>
+							<a href="#" class="faded" id="list-view">
+								 <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-list"></use></svg>
+							</a>
+			</div>
 
 		</form>
 	</div>
@@ -34,4 +43,26 @@ layout: default
 			<p class="publisher-type">{{pub.type}}</p>
 		</a>
 	{% endfor %}
+</div>
+
+<div class="row clearfix hide" id="pubs-table">
+	<table>
+		<tr>
+			<th>Image</th>
+			<th>Name</th>
+			<th>Type</th>
+			<th>Date Joined</th>
+			<th>Number of Talks</th>
+		</tr>
+	{% for pub in site.data.pubbys %}
+		<tr>
+			<td><img src="assets/vr-publishers/{{pub.img}}" alt="{{pub.name}}" title="{{pub.name}}" width="50px"></td>
+			<td><a href="#">{{pub.name}}</a></td>
+			<td>{{pub.type}}</td>
+			<td>1.3.2015</td>
+			<td>200</td>
+		</tr>
+	{% endfor %}
+
+	</table>
 </div>

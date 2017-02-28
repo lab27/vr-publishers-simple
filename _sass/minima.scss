@@ -44,10 +44,11 @@ a.publisher-box {
   border-radius: 10px;
   padding: 24px 0 0 0;
   box-shadow: 0 0 0 rgba(0,0,0,0);
-  transition: box-shadow .2s;
+  transition: all .2s;
   color: $talk-dark;
   &:hover {
-    box-shadow: 0 5px 10px rgba(0,0,0,.1)
+    box-shadow: 0 5px 10px rgba(0,0,0,.1);
+    background: white;
   }
 }
 
@@ -55,4 +56,37 @@ p.publisher-type {
   font-weight: 300;
   font-size: .8rem;
   color:rgba($talk-dark,.6);
+}
+
+#view-toggle {
+  padding-top: 5px;
+  a {
+    padding: 3px;
+    color: $talk-dark;
+    margin-right: 6px;
+    &.faded svg {
+      opacity: .3;
+    }
+  }
+  svg {
+    width: 24px;
+    height: 24px;
+    fill: currentColor;
+  }
+}
+
+#pubs-table table {
+  width: 100%;
+
+  th {
+    text-align: left;
+  }
+
+  a {
+    color: $talk-dark;
+    font-weight: 700;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
